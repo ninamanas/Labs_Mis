@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559662382860",
+    "project_id": "recipesapp-e0faa",
+    "storage_bucket": "recipesapp-e0faa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559662382860:android:e8adc0d42d8fc405f8d329",
+        "android_client_info": {
+          "package_name": "com.example.mis2lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Q73GJjd3sNfREAruOp_FQuIxYPw2ho0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

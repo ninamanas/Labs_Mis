@@ -1,0 +1,40 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "recipesapp-e0faa",
+          "appId": "1:559662382860:android:e8adc0d42d8fc405f8d329",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "recipesapp-e0faa",
+          "configurations": {
+            "android": "1:559662382860:android:e8adc0d42d8fc405f8d329",
+            "ios": "1:559662382860:ios:d8f926bdd2aecb4ef8d329",
+            "macos": "1:559662382860:ios:d8f926bdd2aecb4ef8d329",
+            "web": "1:559662382860:web:837d96b25377f618f8d329",
+            "windows": "1:559662382860:web:b9f34bd6416ec518f8d329"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": []
+    }
+  ]
+}
